@@ -1,0 +1,46 @@
+*{
+margin: 0;
+padding:0;
+
+
+
+}
+
+
+
+
+.continent h1{
+
+    height: 100px;
+    padding-left: 70px;
+    padding-top: 20px;
+    font-size: 60px;
+
+    
+    }
+.header{
+ 
+ color: white;
+ font-family: 'Bangers', cursive;
+background-color: darkslategray;
+
+height:70px;
+width:100%;
+display: flex;
+align-items: center;
+justify-content: space-between ;
+
+
+
+
+}
+
+.menu{
+font-size:30px;
+word-spacing: 80px;
+padding-right: 400px;
+
+display: inline-block;
+
+
+}
